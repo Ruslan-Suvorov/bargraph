@@ -1,0 +1,9 @@
+body {
+	display: flex;
+	justify-content: center;
+}
+.barChart{
+	border-left:2px solid black;
+	border-bottom:2px solid black;
+	position: absolute;
+}
